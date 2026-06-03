@@ -1,0 +1,88 @@
+# Validation Report - city-walk-routes
+
+Generated: 2026-06-02T19:22:16.273188
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner City Walk Routes
+- ✓ Article word count OK: Beginner City Walk Routes: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner City Walk Routes
+- ✓ Article word count OK: Beginner City Walk Routes Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner City Walk Routes
+- ✓ Article word count OK: Beginner City Walk Routes in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner City Walk Routes
+- ✓ Article word count OK: Common Mistakes in Beginner City Walk Routes
+- ✓ Article word count OK: Beginner City Walk Routes for Beginners
+- ✓ Article word count OK: Advanced Beginner City Walk Routes Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced City Walk Routes
+- ✓ Article word count OK: Advanced City Walk Routes: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced City Walk Routes
+- ✓ Article word count OK: Advanced City Walk Routes Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced City Walk Routes
+- ✓ Article word count OK: Advanced City Walk Routes in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced City Walk Routes
+- ✓ Article word count OK: Common Mistakes in Advanced City Walk Routes
+- ✓ Article word count OK: Advanced City Walk Routes for Beginners
+- ✓ Article word count OK: Advanced Advanced City Walk Routes Techniques
+- ✓ Article word count OK: The Ultimate Guide to City Walk Routes Tips
+- ✓ Article word count OK: City Walk Routes Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding City Walk Routes Tips
+- ✓ Article word count OK: City Walk Routes Tips Tips and Best Practices
+- ✓ Article word count OK: The History of City Walk Routes Tips
+- ✓ Article word count OK: City Walk Routes Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of City Walk Routes Tips
+- ✓ Article word count OK: Common Mistakes in City Walk Routes Tips
+- ✓ Article word count OK: City Walk Routes Tips for Beginners
+- ✓ Article word count OK: Advanced City Walk Routes Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to City Walk Routes History
+- ✓ Article word count OK: City Walk Routes History: Everything You Need to Know
+- ✓ Article word count OK: Understanding City Walk Routes History
+- ✓ Article word count OK: City Walk Routes History Tips and Best Practices
+- ✓ Article word count OK: The History of City Walk Routes History
+- ✓ Article word count OK: City Walk Routes History in 2026: Current Trends
+- ✓ Article word count OK: Future of City Walk Routes History
+- ✓ Article word count OK: Common Mistakes in City Walk Routes History
+- ✓ Article word count OK: City Walk Routes History for Beginners
+- ✓ Article word count OK: Advanced City Walk Routes History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending City Walk Routes
+- ✓ Article word count OK: Trending City Walk Routes: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending City Walk Routes
+- ✓ Article word count OK: Trending City Walk Routes Tips and Best Practices
+- ✓ Article word count OK: The History of Trending City Walk Routes
+- ✓ Article word count OK: Trending City Walk Routes in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending City Walk Routes
+- ✓ Article word count OK: Common Mistakes in Trending City Walk Routes
+- ✓ Article word count OK: Trending City Walk Routes for Beginners
+- ✓ Article word count OK: Advanced Trending City Walk Routes Techniques
+- ✓ Article word count OK: The Ultimate Guide to City Walk Routes Tutorials
+- ✓ Article word count OK: City Walk Routes Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding City Walk Routes Tutorials
+- ✓ Article word count OK: City Walk Routes Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of City Walk Routes Tutorials
+- ✓ Article word count OK: City Walk Routes Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of City Walk Routes Tutorials
+- ✓ Article word count OK: Common Mistakes in City Walk Routes Tutorials
+- ✓ Article word count OK: City Walk Routes Tutorials for Beginners
+- ✓ Article word count OK: Advanced City Walk Routes Tutorials Techniques
+- ✓ Ad configuration validated

@@ -1,0 +1,59 @@
+{
+  "siteId": "city-walk-routes",
+  "generatedAt": "2026-06-02T19:22:16.273417",
+  "categories": [
+    "beginner-city-walk-routes",
+    "advanced-city-walk-routes",
+    "tips-city-walk-routes",
+    "history-city-walk-routes",
+    "trending-city-walk-routes",
+    "tutorials-city-walk-routes"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-city-walk-routes",
+      "category_name": "Beginner City Walk Routes"
+    },
+    {
+      "category_slug": "advanced-city-walk-routes",
+      "category_name": "Advanced City Walk Routes"
+    },
+    {
+      "category_slug": "tips-city-walk-routes",
+      "category_name": "City Walk Routes Tips"
+    },
+    {
+      "category_slug": "history-city-walk-routes",
+      "category_name": "City Walk Routes History"
+    },
+    {
+      "category_slug": "trending-city-walk-routes",
+      "category_name": "Trending City Walk Routes"
+    },
+    {
+      "category_slug": "tutorials-city-walk-routes",
+      "category_name": "City Walk Routes Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "city-walk-routes",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "City Walk Routes Central",
+    "articles_per_row": 2
+  }
+}
